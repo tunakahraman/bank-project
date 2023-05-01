@@ -84,37 +84,6 @@ public class Main {
 
             }
 
-                    /*do {
-                        if(login.Login()) {
-                            switch ( (choice))
-                        }
-                    } while(!login.Login());*/
-
-                /*case 3:
-                    try {
-                        customerManager.accDetails();
-                    } catch (Exception exception) {
-                        System.out.println("Error: " + exception.getMessage());
-                    }
-
-                    break;
-
-                case 4:
-                    customerManager.deposit();
-
-                    break;
-
-                case 5:
-                    customerManager.withdraw();
-
-                    break;
-                case 6:
-                    System.out.println("See you soon!");
-                    break;
-
-            }
-
-        } while (choice != 6);*/
         } while (choice !=3);
     }
 
